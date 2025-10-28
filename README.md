@@ -51,3 +51,33 @@ styles/: CSS or preprocessor stylesheets.
 app/: Main application logic (pages, routing, entry points for Next.js).
 
 components/: Reusable React components.
+
+Setup & Installation
+Clone the repository:
+
+bash
+git clone https://github.com/YOUR-USERNAME/go-jab.git
+cd go-jab
+Install dependencies (using npm, yarn, or pnpm):
+
+bash
+npm install
+Start the development server:
+
+bash
+npm run dev
+Usage
+Visit http://localhost:3000 after running the dev server.
+
+Use the UI to track buses in real-time, browse routes, and view schedules.
+
+Contributing
+Fork the repository.
+
+Create your feature branch (git checkout -b feature/new-feature).
+
+Commit your changes.
+
+Push to the branch.
+
+Create a Pull Request.
